@@ -14,3 +14,6 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 1. naam
 	- email: email -- domein
 	- GitHub: URL naar github account
+Tony Bijl
+	- email: tony.bijl59@gmail.com -- domein
+	- GitHub: https://github.com/tonybijlage
